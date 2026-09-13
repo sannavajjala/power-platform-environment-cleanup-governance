@@ -77,3 +77,20 @@ Decision
                    Cleanup
                       ↓
                 Audit Record
+
+
+---
+
+# Environment Cleanup Assessment
+
+The flagship artifact in this repository is the:
+
+**Power Platform Environment Cleanup Assessment**
+
+## Maintainer
+
+**Manoj Annavajjala**
+
+Power Platform Engineer
+
+Community contributions, implementation feedback, and improvement proposals are welcome.
