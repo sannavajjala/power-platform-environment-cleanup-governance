@@ -78,9 +78,9 @@ Decision
                       ↓
                 Audit Record
 
-
+```
 ---
-
+```
 # Environment Cleanup Assessment
 
 The flagship artifact in this repository is the:
